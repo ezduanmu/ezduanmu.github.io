@@ -1,4 +1,4 @@
-# ericduanmu.com (ezduanu.github.io)
+# ericduanmu.com (ezduanmu.github.io)
 
 [Eric Duanmu's personal website](ericduanmu.com). Made using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) and hosted by [GitHub Pages](https://pages.github.com/).
 
