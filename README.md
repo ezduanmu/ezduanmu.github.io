@@ -1,5 +1,5 @@
-# ericduanmu.com
-Eric Duanmu's personal website. Made using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) and hosted by [GitHub Pages](https://pages.github.com/).
+# ericduanmu.com (ezduanu.github.io)
+[Eric Duanmu's personal website](ericduanmu.com). Made using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) and hosted by [GitHub Pages](https://pages.github.com/).
 
 # Technologies and packages
 - [ReactJS](https://reactjs.org/)
