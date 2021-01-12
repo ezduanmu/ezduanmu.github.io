@@ -11,7 +11,7 @@
 
 # Todo
 
-- "Back to top" button
-- Minimap system that shows which panel the user is on, allows for fast navigation (could be alternative to "back to top" button)
-- Attach "random color scheme" button to the minimap system, basically a <code>position: absolute</code> menu.
+- Convert "random color scheme" button into a full menu with minimap-style navigation (show what panel you're currently on) and still include the old "random color scheme" feature. This also accounts for "back to top" button.
 - Section for things I'm currently interested in (i.e. news articles, music recommendations, etc.)
+- Make panels fade/slide in from below when scrolled for the first time
+- Maybe find better font choices, make sure it works for various color schemes
