@@ -2,7 +2,7 @@
 My personal website
 
 # Technologies and packages
-ReactJS
+ReactJS \n
 styled-components
 EmailJS
 color-scheme.js
