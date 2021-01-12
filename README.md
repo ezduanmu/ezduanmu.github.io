@@ -1,5 +1,5 @@
 # ezduanmu.github.io
-My personal website
+Eric Duanmu's personal website. Made using create-react-app and hosted by GitHub Pages.
 
 # Technologies and packages
 ReactJS
@@ -9,5 +9,3 @@ styled-components
 EmailJS
 
 color-scheme.js
-
-This website was made using create-react-app and is hosted by GitHub Pages.
