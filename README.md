@@ -13,5 +13,5 @@
 
 - "Back to top" button
 - Minimap system that shows which panel the user is on, allows for fast navigation (could be alternative to "back to top" button)
+- Attach "random color scheme" button to the minimap system, basically a <code>position: absolute</code> menu.
 - Section for things I'm currently interested in (i.e. news articles, music recommendations, etc.)
-- Make "random color scheme" button <code>position: absolute</code>, maybe attached to the minimap system
